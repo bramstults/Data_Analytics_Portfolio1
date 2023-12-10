@@ -23,6 +23,6 @@ A portfolio of projects completed for SUU Data Analytics 4100 in Google Colabora
 6. **Module 6: Clustering and Segmentation**
    - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1rFz1N5Z9vCg1ReqzVpDeSaEheLMvse_j?usp=drive_link)
    
-7. Data Analytics skills :  statistical inference, R, Python, NumPy, Pandas 
+7. Data Analytics skills :  statistical inference, R, Python, NumPy, Pandas
   
 
