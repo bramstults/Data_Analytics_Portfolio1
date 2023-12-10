@@ -1,7 +1,5 @@
 # Data_Analytics_Portfolio1
-A portfolio of projects completed for SUU Data Analytics 4100 in Google Colaboratory
-# Data Analytics Portfolio
-This is the portfolio of all class assignments I have completed in Data Analytics. 
+A portfolio of projects completed for SUU Data Analytics 4100 in Google Colaboratory 
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1gTG_tvUhT_vryVfWE4Kg1H29gF8QbuFB?usp=drive_link)
